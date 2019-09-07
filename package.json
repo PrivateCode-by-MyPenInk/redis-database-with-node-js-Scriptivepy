@@ -1,0 +1,23 @@
+{
+  "name": "redis-database-with-node-js",
+  "version": "1.0.0",
+  "description": "Redis tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrivateCode-by-MyPenInk/redis-database-with-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrivateCode-by-MyPenInk/redis-database-with-node-js/issues"
+  },
+  "homepage": "https://github.com/PrivateCode-by-MyPenInk/redis-database-with-node-js#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}

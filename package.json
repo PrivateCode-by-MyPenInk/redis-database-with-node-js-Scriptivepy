@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/PrivateCode-by-MyPenInk/redis-database-with-node-js#readme",
   "dependencies": {
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   }
 }
